@@ -1,7 +1,11 @@
 @charset "UTF-8";
 
-table {
+body {
 	width: 90%;
+}
+
+table {
+	width: 100%;
 	border-collapse: collapse;
 	font-size: 12px;
 }
